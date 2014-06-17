@@ -1,0 +1,3 @@
+[submodule "docker-solr-drupal"]
+	path = docker-solr-drupal
+	url = https://github.com/stmh/docker-solr-drupal.git
